@@ -1,0 +1,34 @@
+.checkout-con {
+  align-self: flex-end;
+  font-family: Roboto;
+  margin-bottom: 20px;
+}
+
+.cost-item {
+  font-weight: 600;
+  font-size: 20px;
+  color: #171f46;
+}
+
+.order-total {
+  font-weight: 500;
+  color: #616e7c;
+  margin-bottom: 0px;
+}
+
+.items-in-cart {
+  font-size: 12px;
+  color: #616e7c;
+  margin-top: 0px;
+  padding-top: 0px;
+}
+
+.checkout-btn {
+  width: 100%;
+  background-color: #0b69ff;
+  border-width: 0px;
+  border-radius: 3px;
+  color: #ffffff;
+  font-size: 13px;
+  height: 28px;
+}
